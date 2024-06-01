@@ -86,7 +86,7 @@ nav .buttons .signup:hover {
 
 .hero-section {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
   height: 95vh;
   padding: 0 15px;
